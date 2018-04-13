@@ -1,5 +1,8 @@
+<<<<<<< Updated upstream
 # Python3
 
+=======
+>>>>>>> Stashed changes
 def binary_search(list, item):
     # 배열 전체길이 설정
 
